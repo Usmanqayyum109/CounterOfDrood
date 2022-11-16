@@ -1,38 +1,111 @@
-.App {
+.body{
+  margin-top: -100px;
+  margin-bottom: 0px;
+  margin-left: -100px;
+  margin-right: 200px;
+  /* display: flex;
+  position: fixed; */
+  background-image: 
+  repeating-conic-gradient(
+    #43c6db 0deg,#43c6db 10deg,
+    #6a5acd 10deg, #6a5acd 20deg,
+    #0909ff 20deg, #0909ff 70deg
+  );
+  background-size: 60px 60px;
+width: 1330px;
+height: 350px;
+
+}
+.header{
+  background-image: 
+  repeating-conic-gradient(
+    red 0deg, red 90deg,
+    yellow 90deg, yellow 180deg
+  );
+  background-size: 20px 20px;
+  color:#00008b;
   text-align: center;
+  height: 150px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 550%;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.color{
+  color: #57feff;
+  text-align: center;
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  flex-flow: row wrap;
+  margin-left: 900px;
+  margin-top: 150px;
+  background-color: #0000cd;
+  height: 60px;
+  width: 200px;
+  font-size: 55px;
+  border-radius: 10px;
 }
 
-.App-link {
-  color: #61dafb;
+.color1{
+  color: #57feff;
+  text-align: center;
+  display: flex;
+  flex-flow: row wrap;
+  margin-left:300px ;
+  margin-top: -55px;
+  background-color: #0000cd;
+  height: 60px;
+  width: 230px;
+  font-size: 60px;
+  border-radius: 10px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.color0{
+  color: #57feff;
+  text-align: center;
+  display: flex;
+  flex-flow: row wrap;
+  margin-left: 900px;
+  margin-top: 150px;
+  background-color: #0000cd;
+  height: 60px;
+  width: 200px;
+  font-size: 55px;
+  border-radius: 10px;
+}
+
+.color11{
+  color: #57feff;
+  text-align: center;
+   display: flex; 
+  flex-flow: row wrap; 
+  margin-left:300px ;
+  margin-top: -55px;
+  background-color: #0000cd;
+  height: 60px;
+  width: 230px;
+  font-size: 27px;
+  border-radius: 10px;
+}
+
+.center{
+  margin-top: -100px;
+  color: #57feff;
+
+  text-align: center;
+  margin-left: 100px;
+  
+  
+  font-size: 180px;
+}
+
+
+.center1{
+  margin-top: -300px;
+  margin-bottom: 30px;
+  margin-left: 100px;
+  color: #57feff;
+
+  text-align: center;
+  
+  
+  font-size: 100px;
 }
