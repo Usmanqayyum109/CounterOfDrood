@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/CounterOfDrood/static/css/main.fe42dafd.css",
+    "main.css": "/CounterOfDrood/static/css/main.2ce1d9b4.css",
     "main.js": "/CounterOfDrood/static/js/main.3f8a4086.js",
     "static/js/787.c9030581.chunk.js": "/CounterOfDrood/static/js/787.c9030581.chunk.js",
     "index.html": "/CounterOfDrood/index.html",
-    "main.fe42dafd.css.map": "/CounterOfDrood/static/css/main.fe42dafd.css.map",
+    "main.2ce1d9b4.css.map": "/CounterOfDrood/static/css/main.2ce1d9b4.css.map",
     "main.3f8a4086.js.map": "/CounterOfDrood/static/js/main.3f8a4086.js.map",
     "787.c9030581.chunk.js.map": "/CounterOfDrood/static/js/787.c9030581.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe42dafd.css",
+    "static/css/main.2ce1d9b4.css",
     "static/js/main.3f8a4086.js"
   ]
 }
